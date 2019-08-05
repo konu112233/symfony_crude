@@ -1,6 +1,8 @@
 # symfony_crude
 crude operation regarding for insert update delete in symfony
 
+download projectv1.zip for full file and folder in your enviorment
+
 
 
   I have cretaed post controller where we have create update delete post function
