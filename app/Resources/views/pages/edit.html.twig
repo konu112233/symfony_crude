@@ -1,0 +1,18 @@
+{{ include('pages/header.html.twig') }}
+<div>
+<a href="{{ absolute_url(asset('')) }}app_dev.php/post" class="btn btn-primary">Back</a>
+
+</div>
+
+
+
+<div>
+
+<h3> Update Post </h3>
+</div>
+{{ form_start(form) }}
+{{ form_widget(form) }}
+{{ form_end(form) }}
+
+
+{{ include('pages/footer.html.twig') }}
