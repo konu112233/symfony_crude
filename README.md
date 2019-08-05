@@ -1,4 +1,4 @@
-# symfony_crude
+# symfony_crude_[insert/update/delete]
 crude operation regarding for insert update delete in symfony
 
 download projectv1.zip for full file and folder in your enviorment
